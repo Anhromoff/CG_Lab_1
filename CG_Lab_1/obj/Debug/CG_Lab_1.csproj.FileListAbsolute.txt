@@ -1,0 +1,16 @@
+C:\Users\Андрей\YandexDisk\С++\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\YandexDisk\С++\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.Properties.Resources.resources
+C:\Users\Андрей\YandexDisk\С++\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.csproj.GenerateResource.Cache
+C:\Users\Андрей\YandexDisk\С++\CG_Lab_1\CG_Lab_1\bin\Debug\CG_Lab_1.exe
+C:\Users\Андрей\YandexDisk\С++\CG_Lab_1\CG_Lab_1\bin\Debug\CG_Lab_1.pdb
+C:\Users\Андрей\YandexDisk\С++\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.Form1.resources
+C:\Users\Андрей\YandexDisk\С++\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.exe
+C:\Users\Андрей\YandexDisk\С++\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.pdb
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_1\CG_Lab_1\bin\Debug\CG_Lab_1.exe
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_1\CG_Lab_1\bin\Debug\CG_Lab_1.pdb
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.Form1.resources
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.Properties.Resources.resources
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.csproj.GenerateResource.Cache
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.exe
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_1\CG_Lab_1\obj\Debug\CG_Lab_1.pdb
